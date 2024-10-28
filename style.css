@@ -30,10 +30,10 @@ body {
   position: relative !important;
 }
 @media (min-width: 1024px) {
-  .carousel{
+  .gallery{
     width: 900px;
   }
-  .carousel div img {
+  .gallery div img {
     width: 250px;
   }
   .slick-next {
